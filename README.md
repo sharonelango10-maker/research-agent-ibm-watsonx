@@ -58,7 +58,7 @@ The agent is grounded with a reference document so it gives accurate answers:
 - "Summarize this paper for me."
 - "Organize these papers into an APA bibliography."
 - "Create an IEEE citation list from my search results."
-- 
+
 ---
 
 ## How It Was Built
