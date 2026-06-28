@@ -1,8 +1,8 @@
-# ResearchMate AI — Research Agent (IBM Watsonx Orchestrate)
+# Research Agent (IBM Watsonx Orchestrate)
 
 ## What is this?
 
-ResearchMate AI is an AI agent that helps with academic and scientific research tasks. It can search literature, summarize papers, organize references, suggest hypotheses, and draft sections of research papers, saving time on repetitive research work.
+A Research Agent is an AI agent that helps with academic and scientific research tasks. It can search literature, summarize papers, organize references, suggest hypotheses, and draft sections of research papers, saving time on repetitive research work.
 
 Built as part of the **Edunet Foundation × IBM SkillsBuild AICTE Internship Program**, using **IBM Cloud Lite**, **GPT-OSS 120B(Open AI)** and **watsonx Orchestrate**.
 
